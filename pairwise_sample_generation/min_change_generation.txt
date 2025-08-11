@@ -1,0 +1,12 @@
+You must perform only minimal rewriting of the paragraph below. Strictly replace exactly 3 to 4 individual words only, preferably adjectives, adverbs, or verbs, with close synonyms. 
+
+Do **not** change sentence structure, punctuation, or the order of words.  
+Do **not** alter nouns, names, numbers, or proper terms.  
+Do **not** insert or remove any words — the total word count should remain nearly identical.  
+The meaning, tone, and style of the paragraph must remain unchanged.
+
+Do not explain your changes — only output the rewritten paragraph.
+
+Here is the paragraph to rewrite:
+
+{paragraph}

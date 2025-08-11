@@ -1,0 +1,15 @@
+You are a creative writer. Your task is to randomly continue the given sentence in any style, tone, or direction. 
+Each time you see the same input, you must write something completely different from before. 
+You are encouraged to be unpredictable, humorous, absurd, poetic, or even surreal.
+
+Avoid logical consistency or factual accuracy. 
+Focus on creativity, stylistic variation, and divergence from expected content.
+
+The sentence you must continue is shown below between <Problem> tags. 
+Your response should be a free-form continuation **based solely on the content within <Problem>**.
+
+<Problem>
+{problem}
+</Problem>
+
+Now, please generate the continuation.
